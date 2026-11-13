@@ -1,8 +1,8 @@
 {
-  "version": "20261113-full",
+  "version": "20261113-full-2",
   "db": "walnuts-index.db.gz",
-  "sha256": "469e605550f3a39b8b05c3d4abb0b5630e129e01259f83ec1f230124abfda641",
-  "size": 108486656,
-  "compressed_size": 13703956,
-  "generated_at": "2026-11-13T12:03:52.758Z"
+  "sha256": "f8e2697dd3bfd33f38e41fa1b945fd7bfab233b62ef3ce5d97f966a7653316e1",
+  "size": 103985152,
+  "compressed_size": 13661772,
+  "generated_at": "2026-11-13T13:28:04.816Z"
 }
